@@ -1,0 +1,25 @@
+list:
+    -
+      name: pugBO
+      url: http://bologna.grusp.org/
+      image: BO.svg
+    -
+      name: PUG Friuli
+      url: http://friuli.grusp.org/
+      image: FRIULI.svg
+    -
+      name: PUG Milano
+      url: http://milano.grusp.org/
+      image: MI.svg
+    -
+      name: PUG MoRe
+      url: http://more.grusp.org/
+      image: MORE.svg
+    -
+      name: PUG Roma
+      url: http://roma.grusp.org/
+      image: RM.svg
+    -
+      name: PUG Torino
+      url: http://torino.grusp.org/
+      image: TO.svg
