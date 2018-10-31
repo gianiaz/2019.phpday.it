@@ -83,11 +83,13 @@
             Code Of Conduct
           </a>
         </li>
+        {% if site.data.conference.scholarship_available %}
         <li class="menu__item">
-          <a href="{{ site.baseurl }}/scolarships.html" class="menu__button">
-            Scolarships
+          <a href="{{ site.baseurl }}/scholarships.html" class="menu__button">
+            Scholarships
           </a>
         </li>
+        {% endif %}
         <li class="menu__item">
           <a href="{{ site.baseurl }}/venue.html" class="menu__button">
             Venue
