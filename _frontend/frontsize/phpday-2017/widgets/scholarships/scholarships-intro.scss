@@ -1,4 +1,4 @@
-@include block ('scolarships-intro') {
+@include block ('scholarships-intro') {
   margin-top: s(8);
 
   @include element ('title') {
@@ -23,7 +23,7 @@
     }
 
     @include media ('>=tablet-large') {
-      font-size: 130px;
+      font-size: 125px;
       user-select: none;
     }
   }
