@@ -11,6 +11,8 @@ main:
     - 1 dedicated session (30 mins max)
     - Access to opt-in attendees list
     - One direct email marketing campaign
+    - Your logo on conference website
+    - Your logo in pre-event communications
     - Your logo on conference rollups
     - Your own rollups in two rooms
     - Stand (table 2m x 1m)
@@ -25,11 +27,12 @@ diamond:
   offer:
     - 1 dedicated session (30 mins max)
     - Your logo on conference website
+    - Your logo in pre-event communications
     - Your logo on conference rollups
     - Your own rollups in two rooms
     - Stand (table 2m x 1m)
     - Your own flyer and/or gadget in folder
-    - 2 free tickets
+    - 4 free tickets
     - 5 tickets with 20% discount
   max: 2
   list:
@@ -38,11 +41,12 @@ platinum:
   price: € 3,000
   offer:
     - Your logo on conference website
+    - Your logo in pre-event communications
     - Your logo on conference rollups
     - Your own rollup in one room (of your choice)
     - Stand (table 1m x 1m)
     - Your own flyer and/or gadget in folder
-    - 1 free ticket
+    - 3 free tickets
     - 5 tickets with 15% discount
   max: 4
   list:
@@ -51,12 +55,14 @@ platinum:
       image: ideato.svg
 
 gold:
-  price: € 1,000
+  price: € 1,500
   offer:
     - Your logo on conference website
+    - Your logo in pre-event communications
     - Your logo on conference rollups
     - Your own rollup in one room (chosen by the organization)
     - Your own flyer and/or gadget in folder
+    - 2 free tickets
     - 3 tickets with 15% discount
   max: 8
   list:
@@ -65,19 +71,22 @@ gold:
       image: workwave.svg
 
 silver:
-  price: € 500
+  price: € 750
   offer:
     - Your logo on conference website
+    - Your logo in pre-event communications
     - Your logo on conference rollups
-    - Your own flyer and/or gadget in folder (provided by you)
+    - Your own flyer and/or gadget in folder
+    - 1 free ticket
     - 3 tickets with 10% discount
   max: 32
   list:
 
 bronze:
-  price: € 300
+  price: € 500
   offer:
     - Your logo on conference website
+    - Your logo in pre-event communications
     - 2 tickets with 10% discount
   max: 64
   list:
