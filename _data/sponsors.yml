@@ -81,6 +81,12 @@ silver:
     - 3 tickets with 10% discount
   max: 32
   list:
+    -
+      url: https://labs.madisoft.it/?utm_source=phpday
+      image: madisoft.svg
+    -
+      url: https://balsamiq.com/?utm_source=phpday
+      image: balsamiq.svg
 
 bronze:
   price: € 500
