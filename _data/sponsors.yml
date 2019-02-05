@@ -94,6 +94,9 @@ silver:
       url: https://labs.madisoft.it/?utm_source=phpday
       image: madisoft.svg
     -
+      url: https://www.opencontent.it/?utm_source=phpday
+      image: opencontent.svg
+    -
       url: https://www.siteground.it/?utm_source=phpday
       image: siteground.svg
 
