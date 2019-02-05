@@ -67,7 +67,10 @@ gold:
   max: 8
   list:
     -
-      url: http://careers.workwave.com/
+      url: https://www.shellrent.com/?utm_source=phpday
+      image: shellrent.svg
+    -
+      url: http://careers.workwave.com/?utm_source=phpday
       image: workwave.svg
 
 silver:
