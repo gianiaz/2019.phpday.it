@@ -9,6 +9,27 @@
 #    twitter: AlessandroLai
 list:
   -
+    id: derick-rethans
+    description:
+    image: derick-rethans.jpg
+    first_name: Derick
+    last_name: Rethans
+    twitter: derickr
+  -
+    id: enrico-zimuel
+    description:
+    image: enrico-zimuel.jpg
+    first_name: Enrico
+    last_name: Zimuel
+    twitter: ezimuel
+  -
+    id: frank-koornstra
+    description:
+    image: frank-koornstra.jpg
+    first_name: Frank
+    last_name: Koornstra
+    twitter: frankkoornstra
+  -
     id: larry-garfield
     description:
     image: larry-garfield.jpg
