@@ -9,6 +9,34 @@
 #    twitter: AlessandroLai
 list:
   -
+    id: abdala-cerqueira
+    description:
+    image: abdala-cerqueira.jpg
+    first_name: Abdala
+    last_name: Cerqueira
+    twitter: abdalac
+  -
+    id: arnout-boks
+    description:
+    image: arnout-boks.jpg
+    first_name: Arnout
+    last_name: Boks
+    twitter: arnoutboks
+  -
+    id: bobby-bouwmann
+    description:
+    image: bobby-bouwmann.jpg
+    first_name: Bobby
+    last_name: Bouwmann
+    twitter: bobbybouwmann
+  -
+    id: dave-liddament
+    description:
+    image: dave-liddament.jpg
+    first_name: Dave
+    last_name: Liddament
+    twitter: daveliddament
+  -
     id: derick-rethans
     description:
     image: derick-rethans.jpg
@@ -30,6 +58,13 @@ list:
     last_name: Koornstra
     twitter: frankkoornstra
   -
+    id: joop-lammerts
+    description:
+    image: joop-lammerts.jpg
+    first_name: Joop
+    last_name: Lammerts
+    twitter: jlammerts
+  -
     id: larry-garfield
     description:
     image: larry-garfield.jpg
@@ -37,12 +72,40 @@ list:
     last_name: Garfield
     twitter: Crell
   -
+    id: matthieu-napoli
+    description:
+    image: matthieu-napoli.jpg
+    first_name: Matthieu
+    last_name: Napoli
+    twitter: matthieunapoli
+  -
+    id: miro-svrtan
+    description:
+    image: miro-svrtan.jpg
+    first_name: Miro
+    last_name: Svrtan
+    twitter: msvrtan
+  -
     id: nara-kasbergen
     description:
     image: nara-kasbergen.jpg
     first_name: Nara
     last_name: Karbergen
     twitter: xiehan
+  -
+    id: nikola-posa
+    description:
+    image: nikola-posa.jpg
+    first_name: Nikola
+    last_name: Poša
+    twitter: nikolaposa
+  -
+    id: peter-macintyre
+    description:
+    image: peter-macintyre.jpg
+    first_name: Peter
+    last_name: MacIntyre
+    twitter: pbmacintyre
   -
     id: rasmus-lerdorf
     description:
