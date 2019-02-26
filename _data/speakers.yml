@@ -8,3 +8,24 @@
 #    last_name: Lai
 #    twitter: AlessandroLai
 list:
+  -
+    id: larry-garfield
+    description:
+    image: larry-garfield.jpg
+    first_name: Larry
+    last_name: Garfield
+    twitter: Crell
+  -
+    id: nara-kasbergen
+    description:
+    image: nara-kasbergen.jpg
+    first_name: Nara
+    last_name: Karbergen
+    twitter: xiehan
+  -
+    id: rasmus-lerdorf
+    description:
+    image: rasmus-lerdorf.jpg
+    first_name: Rasmus
+    last_name: Lerdorf
+    twitter: rasmus
