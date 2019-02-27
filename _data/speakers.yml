@@ -16,6 +16,13 @@ list:
     last_name: Cerqueira
     twitter: abdalac
   -
+    id: arne-blankerts
+    description:
+    image: arne-blankerts.jpg
+    first_name: Arne
+    last_name: Blankerts
+    twitter: arneblankerts
+  -
     id: arnout-boks
     description:
     image: arnout-boks.jpg
