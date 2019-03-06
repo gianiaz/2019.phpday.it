@@ -102,7 +102,7 @@
     is build with a VueJS frontend and Laravel backend.
 -
   speaker_id: dave-liddament
-  title: AssertTrue(isDecoupled("my tests"))
+  title: AssertTrue (isDecoupled("my tests"))
   extract: >
     "Houston we have a problem! This change you want… Well it's one small change for the codebase but one giant change
     to the test suite!" We all know why tests are great. But every once in a while we just wish they'd never been written.
