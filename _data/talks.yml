@@ -132,6 +132,14 @@
     during PRs, look at statistics to fuel decisions around commenting and then combine those two perspectives to create
     a solid code review etiquette for your team so you can achieve truly async non-blocking code reviews.
 -
+  speaker_id: gabriel-caruso
+  title: What are Coding Standards in PHP?
+  extract: >
+    This talk will approach a theme that, for many of us, judge it unnecessary for our applications, but it has an
+    extreme importance to accelerate the code review process, focusing only on business logic. Will be shown what are
+    Coding Standards, how to implement a tool to automate this process and promote the debate that good practices in
+    programming can become Coding Standard rules.
+-
   speaker_id: joop-lammerts
   title: Microservices in a monolith
   extract: >

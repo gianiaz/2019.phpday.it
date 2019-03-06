@@ -65,6 +65,13 @@ list:
     last_name: Koornstra
     twitter: frankkoornstra
   -
+    id: gabriel-caruso
+    description:
+    image: gabriel-caruso.jpg
+    first_name: Gabriel
+    last_name: Caruso
+    twitter: carusogabriel
+  -
     id: joop-lammerts
     description:
     image: joop-lammerts.jpg
