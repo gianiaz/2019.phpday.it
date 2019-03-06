@@ -120,3 +120,10 @@ list:
     first_name: Rasmus
     last_name: Lerdorf
     twitter: rasmus
+  -
+    id: stefano-torresi
+    description:
+    image: stefano-torresi.jpg
+    first_name: Stefano
+    last_name: Torresi
+    twitter: storresi

@@ -202,3 +202,12 @@
     We will actually create a simple plugin in this session while looking at the PHP code needed to make this happen.
     We will build a widget, and an admin sub-system to manage its data and extend that widget into a short-code example
     as well.
+-
+  speaker_id: stefano-torresi
+  title: From 0 to Continuous Deployments with Kubernetes, Helm and GitLab
+  extract: >
+    A live demonstration on how to get up and running from an empty directory to a fully functional application,
+    continuously deployed to a live Kubernetes cluster, with per-branch automatic releases and manual environment
+    promotion. We'll be giving a short primer on Kubernetes itself, which will be the base framework for our infrastructure,
+    an introduction to Helm, which helps to manage K8S resource manifests and install third-party components, and show
+    how to leverage the GitLab SaaS to implement a CI/CD pipeline.
