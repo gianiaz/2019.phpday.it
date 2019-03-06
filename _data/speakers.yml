@@ -86,6 +86,13 @@ list:
     last_name: Garfield
     twitter: Crell
   -
+    id: marco-pivetta
+    description:
+    image: marco-pivetta.jpg
+    first_name: Marco
+    last_name: Pivetta
+    twitter: Ocramius
+  -
     id: matthieu-napoli
     description:
     image: matthieu-napoli.jpg
