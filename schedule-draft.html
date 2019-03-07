@@ -41,13 +41,7 @@ title: Schedule
         </tr>
 
         <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">15.30-16.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html title='Using the Workflow component for e-commerce' time='15.30-16.30' %}
           {% include schedule/talk.html title='AssertTrue (isDecoupled("my tests"))' %}
           <td class="schedule__cell schedule__cell--event">
             <div class="schedule__title">TBD</div>
@@ -106,15 +100,7 @@ title: Schedule
         {% include schedule/pause.html time='13.00-14.30' title='Lunch' icon="food" %}
 
         <tr>{% include schedule/talk.html time='14.30-15.30' title='Xdebug 3.0' %}</tr>
-        <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">15.30-16.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
-        </tr>
+        <tr>{% include schedule/talk.html time='15.30-16.30' title='Using the Workflow component for e-commerce' %}</tr>
 
         {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" %}
 
