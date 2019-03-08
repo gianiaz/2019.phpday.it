@@ -41,6 +41,16 @@
     analysis, zero-cost profiling, dead code elimination and escape analysis are just some of the concepts that will be
     covered.
 -
+  speaker_id: chris-riley
+  tutorial: true
+  title: Hack this workshop!
+  extract: >
+    In this workshop we will take a look at common security failings from a new perspective: that of the hacker. You'll
+    be provided with a set of different sites each exhibiting a different security flaw, the challenge will be to find
+    and exploit it and in doing so learn how to protect your own sites. All the sites will be run locally inside docker
+    containers so don't worry about breaking any laws! Obviously this means that you will need to bring a laptop which
+    is capable of running docker containers in order to participate in this workshop.
+-
   speaker_id: derick-rethans
   tutorial: true
   title: PHP Internals Deep Dive

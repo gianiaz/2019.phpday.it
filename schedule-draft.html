@@ -35,17 +35,12 @@ title: Schedule
         <tr>
           {% include schedule/talk.html title='Xdebug 3.0' time='14.30-15.30' %}
           {% include schedule/talk.html title="Advanced Plugin Creation in WordPress" %}
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html title='Hack this workshop!' workshop='true' %}
         </tr>
 
         <tr>
           {% include schedule/talk.html title='Using the Workflow component for e-commerce' time='15.30-16.30' %}
           {% include schedule/talk.html title='AssertTrue (isDecoupled("my tests"))' %}
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
         </tr>
 
         {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" fill='true' %}
@@ -171,28 +166,11 @@ title: Schedule
 
         {% include schedule/pause.html time='10.45-11.00' title='Short break' icon="coffee" %}
 
-        <tr>{% include schedule/talk.html time='11.00-13.00' title='Develop microservices in PHP'  %}</tr>
+        <tr>{% include schedule/talk.html time='11.00-13.00' title='Develop microservices in PHP' %}</tr>
 
         {% include schedule/pause.html time='13.00-14.30' title='Lunch' icon="food" %}
 
-        <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">14.30-15.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
-        </tr>
-        <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">15.30-16.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
-        </tr>
+        <tr>{% include schedule/talk.html time='14.30-16.30' title='Hack this workshop!' %}</tr>
 
         {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" %}
 

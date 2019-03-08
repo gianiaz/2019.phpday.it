@@ -37,6 +37,13 @@ list:
     last_name: Bouwmann
     twitter: bobbybouwmann
   -
+    id: chris-riley
+    description:
+    image: chris-riley.jpg
+    first_name: Chris
+    last_name: Riley
+    twitter: giveupalready
+  -
     id: dave-liddament
     description:
     image: dave-liddament.jpg
