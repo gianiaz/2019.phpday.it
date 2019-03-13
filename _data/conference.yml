@@ -9,7 +9,7 @@ call_for_paper_url: https://cfp.phpday.it/
 call_for_paper: false
 ws_available: false
 talks_available: true
-schedule_available: false
+schedule_available: true
 scholarship_available: true
 
 iubenda:
