@@ -88,6 +88,9 @@ silver:
       url: https://balsamiq.com/?utm_source=phpday
       image: balsamiq.svg
     -
+      url: https://www.elastic.co/?utm_source=phpday
+      image: elastic.svg
+    -
       url: https://www.facile.it/?utm_source=phpday
       image: facile.svg
     -
