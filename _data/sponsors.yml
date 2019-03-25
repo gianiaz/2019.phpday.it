@@ -100,6 +100,9 @@ silver:
       url: https://www.opencontent.it/?utm_source=phpday
       image: opencontent.svg
     -
+      url: https://www.sailsquare.com/?utm_source=phpday
+      image: sailsquare.svg
+    -
       url: https://www.siteground.it/?utm_source=phpday
       image: siteground.svg
 
