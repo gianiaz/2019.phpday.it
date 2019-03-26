@@ -238,13 +238,7 @@ title: Schedule
         {% include schedule/pause.html time='13.00-14.30' title='Lunch' icon="food" fill='true' %}
 
         <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">14.30-15.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html title="MySQL 8.0 - Not Only Good, it's GREAT" time='14.30-15.30' %}
           {% include schedule/talk.html title='Microservices in a monolith' %}
           <td class="schedule__cell schedule__cell--event">
             <div class="schedule__title">PHP-FIG Meeting</div>
@@ -298,13 +292,7 @@ title: Schedule
         {% include schedule/pause.html time='13.00-14.30' title='Lunch' icon="food" %}
 
         <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">14.30-15.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html time='14.30-15.30' title="MySQL 8.0 - Not Only Good, it's GREAT" %}
         </tr>
         <tr>{% include schedule/talk.html time='15.30-16.30' title='Backwards Incompatible Tales' %}</tr>
         <tr>{% include schedule/talk.html time='16.30-17.00' title="Let's get meta! What the data from the joind.in API can teach us about the PHP community" %}</tr>

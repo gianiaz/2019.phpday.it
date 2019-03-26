@@ -79,6 +79,13 @@ list:
     last_name: Caruso
     twitter: carusogabriel
   -
+    id: gabriela-davila
+    description:
+    image: gabriela-davila.jpg
+    first_name: Gabriela
+    last_name: D'Ávila Ferrara
+    twitter: gabidavila
+  -
     id: joop-lammerts
     description:
     image: joop-lammerts.jpg

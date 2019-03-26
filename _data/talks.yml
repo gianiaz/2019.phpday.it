@@ -150,6 +150,15 @@
     Coding Standards, how to implement a tool to automate this process and promote the debate that good practices in
     programming can become Coding Standard rules.
 -
+  speaker_id: gabriela-davila
+  title: "MySQL 8.0 - Not Only Good, it's GREAT"
+  extract: >
+    Sick and tired of "X technology is only good for starting out; after you do, move to Y"? Good news - you don't need
+    to move away, you just need to get in further! In this talk, you'll learn about improvements in the newest version
+    of the most used database in the world. What are Window Functions? How do you use CTEs? How can the new default
+    encoding help me and what should I look for when upgrading versions? Is MySQL just an OLAP database or there is
+    more to it?
+-
   speaker_id: joop-lammerts
   title: Microservices in a monolith
   extract: >
