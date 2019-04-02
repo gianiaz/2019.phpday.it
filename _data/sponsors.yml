@@ -53,6 +53,9 @@ platinum:
     -
       url: http://www.ideato.it/?utm_source=phpday
       image: ideato.svg
+    -
+      url: https://www.musement.com/?utm_source=phpday
+      image: musement.svg
 
 gold:
   price: € 1,500
