@@ -162,3 +162,17 @@ list:
     first_name: Stefano
     last_name: Torresi
     twitter: storresi
+  -
+    id: tomas-votruba
+    description:
+    image: tomas-votruba.jpg
+    first_name: Tomas
+    last_name: Votruba
+    twitter: votrubat
+  -
+    id: benoit-jacquemont
+    description:
+    image: benoit-jacquemont.jpg
+    first_name: Benoit
+    last_name: Jacquemont
+    twitter: bjacquemont
