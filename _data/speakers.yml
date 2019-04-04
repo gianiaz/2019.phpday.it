@@ -30,6 +30,13 @@ list:
     last_name: Boks
     twitter: arnoutboks
   -
+    id: benoit-jacquemont
+    description:
+    image: benoit-jacquemont.jpg
+    first_name: Benoit
+    last_name: Jacquemont
+    twitter: bjacquemont
+  -
     id: bobby-bouwmann
     description:
     image: bobby-bouwmann.jpg
@@ -169,10 +176,3 @@ list:
     first_name: Tomas
     last_name: Votruba
     twitter: votrubat
-  -
-    id: benoit-jacquemont
-    description:
-    image: benoit-jacquemont.jpg
-    first_name: Benoit
-    last_name: Jacquemont
-    twitter: bjacquemont
