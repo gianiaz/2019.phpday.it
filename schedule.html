@@ -46,13 +46,7 @@ title: Schedule
         {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" fill='true' %}
 
         <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">17.00-17.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html title='Hunting down memory leaks with PHP Meminfo' time='17.00-17.30' %}
           {% include schedule/talk.html title='What are Coding Standards in PHP?' %}
           <td class="schedule__cell schedule__cell--event">
             <div class="schedule__title">PUG Meeting</div>
@@ -99,15 +93,7 @@ title: Schedule
 
         {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" %}
 
-        <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">17.00-17.30</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
-        </tr>
+        <tr>{% include schedule/talk.html time='17.00-17.30' title='Hunting down memory leaks with PHP Meminfo' %}</tr>
         <tr>{% include schedule/talk.html time='17.30-18.00' title="Async non-blocking code reviews" %}</tr>
 
         {% include schedule/pause.html time='18.00-18.45' title='Happy hour' icon="bar" fill='true' %}
@@ -255,9 +241,7 @@ title: Schedule
 
         <tr>
           {% include schedule/talk.html title="Let's get meta! What the data from the joind.in API can teach us about the PHP community" time='16.30-17.00' %}
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html title='Instant Upgrades with Rector' %}
           <td class="schedule__cell schedule__cell--event">
             <div class="schedule__title">Unconference</div>
           </td>
@@ -324,15 +308,7 @@ title: Schedule
 
         <tr>{% include schedule/talk.html time='14.30-15.30' title='Microservices in a monolith' %}</tr>
         <tr>{% include schedule/talk.html time='15.30-16.30' title="Docker: Multi-Stage and Multi-Environment" %}</tr>
-        <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">16.30-17.00</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
-        </tr>
+        <tr>{% include schedule/talk.html time='16.30-17.00' title='Instant Upgrades with Rector' %}</tr>
 
         {% include schedule/pause.html time='17.00-17.30' title='Coffee break' icon="coffee" %}
 

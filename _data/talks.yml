@@ -103,6 +103,18 @@
     able to reason about and solve these problems much more easily. Contains: math, character sets, strong opinions on
     string escaping, and an almost illegal slide.
 -
+  speaker_id: benoit-jacquemont
+  title: Hunting down memory leaks with PHP Meminfo
+  extract: >
+    Profilers like Blackfire.io or Memprof give you the functions that use or free memory. But knowing what is inside
+    the PHP memory allows to better understand the origins of memory leaks. The opensource PHP Meminfo extension gives
+    you a synthetic view of the number of class instances in memory, the full list of objects and other structures, as
+    well as the relations between them (class member, item in an array, etc...). Having access to these relationships
+    information allows understanding why an item has not been removed from memory by following the references that are
+    still pointing to it. This talk will start by explaining how the memory is managed in PHP (ref counter, cyclic
+    reference garbage collector), as well as the effects of a memory leak on your application performances. Then we
+    will analyze some memory leak case studies by using PHP Meminfo and how to fix them.
+-
   speaker_id: bobby-bouwmann
   title: Introducing Laravel Dusk
   extract: >
@@ -277,3 +289,13 @@
     promotion. We'll be giving a short primer on Kubernetes itself, which will be the base framework for our infrastructure,
     an introduction to Helm, which helps to manage K8S resource manifests and install third-party components, and show
     how to leverage the GitLab SaaS to implement a CI/CD pipeline.
+-
+  speaker_id: tomas-votruba
+  title: Instant Upgrades with Rector
+  extract: >
+    Before composer we downloaded packages manually, one by one. Now we do it in composer update. That way you'll update
+    a dependency from Symfony 3.0 to Symfony 4.0. How do you fix BC breaks in your code? Manually, one change after
+    another, file by file. In non-PHP world, lazy Google and Facebook folks automated such work with tools. What about
+    PHP? With AST from `nikic/php-parser` this is now possible in PHP as well.
+    I'll show you how Rector can handle 80 % of boring upgrades for you. I can help with Symfony, Sylius, Twig, Nette,
+    Doctrine and PHPUnit code.
