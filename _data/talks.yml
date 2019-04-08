@@ -260,7 +260,7 @@
     hold for us all as PHP community members.
 -
   speaker_id: nikola-posa
-  title: Handling Exceptional Conditions with Grace and Elegance
+  title: Handling Exceptional Conditions with Ease and Elegance
   extract: >
     Programmers naturally give more attention to a "happy path" - default scenario in application execution in which
     everything works as expected, therefore neglecting the opposite way things can go. This talk is an in-depth study
