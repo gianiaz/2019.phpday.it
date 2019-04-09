@@ -170,6 +170,13 @@ list:
     last_name: Torresi
     twitter: storresi
   -
+    id: thomas-dutrion
+    description:
+    image: thomas-dutrion.jpg
+    first_name: Thomas
+    last_name: Dutrion
+    twitter: tdutrion
+  -
     id: tomas-votruba
     description:
     image: tomas-votruba.jpg

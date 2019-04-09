@@ -290,6 +290,15 @@
     an introduction to Helm, which helps to manage K8S resource manifests and install third-party components, and show
     how to leverage the GitLab SaaS to implement a CI/CD pipeline.
 -
+  speaker_id: thomas-dutrion
+  title: Open Close Principle, is it what you thought?
+  extract: >
+    Most developers are trying to introduce more quality, maintainability and extensibility in their code nowadays, but
+    what tools/frameworks/principles can they use to achieve that? SOLID is one of the main principles list people
+    follow, and looking at the O (Open Close Principle), some people get confused or have different interpretations. In
+    this talk, Thomas is aiming to demonstrate with implementation example and theory what the Open Close principle
+    actually means, and how and why you should use it in your own projects.
+-
   speaker_id: tomas-votruba
   title: Instant Upgrades with Rector
   extract: >

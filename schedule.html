@@ -55,9 +55,7 @@ title: Schedule
 
         <tr>
           {% include schedule/talk.html title="Async non-blocking code reviews" time='17.30-18.00' %}
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
+          {% include schedule/talk.html title="Open Close Principle, is it what you thought?" %}
           <td class="schedule__cell schedule__cell--event">
             <div class="schedule__title">PUG Meeting</div>
           </td>
@@ -124,16 +122,7 @@ title: Schedule
         {% include schedule/pause.html time='16.30-17.00' title='Coffee break' icon="coffee" %}
 
         <tr>{% include schedule/talk.html time='17.00-17.30' title='What are Coding Standards in PHP?' %}</tr>
-
-        <tr>
-          <td class="schedule__cell schedule__cell--time">
-            <span class="schedule__time">17.30-18.00</span>
-            <span class="schedule__on-air">on air</span>
-          </td>
-          <td class="schedule__cell schedule__cell--event">
-            <div class="schedule__title">TBD</div>
-          </td>
-        </tr>
+        <tr>{% include schedule/talk.html time='17.30-18.00' title='Open Close Principle, is it what you thought?' %}</tr>
 
         {% include schedule/pause.html time='18.00-18.45' title='Happy hour' icon="bar" fill='true' %}
         {% include schedule/pause.html time='20.00-24.00' title='Party' icon="food" fill='true' %}
