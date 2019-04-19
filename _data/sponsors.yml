@@ -56,6 +56,9 @@ platinum:
     -
       url: https://www.musement.com/?utm_source=phpday
       image: musement.svg
+    -
+      url: https://www.rds.it/?utm_source=phpday
+      image: rds-skuolanet.svg
 
 gold:
   price: € 1,500
@@ -96,6 +99,9 @@ silver:
     -
       url: https://www.facile.it/?utm_source=phpday
       image: facile.svg
+    -
+      url: https://www.in-recruiting.com/?utm_source=phpday
+      image: inrecruiting.svg
     -
       url: https://labs.madisoft.it/symfony-developer/?utm_source=phpday
       image: madisoft.svg
