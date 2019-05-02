@@ -103,6 +103,9 @@ silver:
       url: https://www.in-recruiting.com/?utm_source=phpday
       image: inrecruiting.svg
     -
+      url: https://www.kanbanbox.com/it/lavora-con-noi/full-stack-developer?utm_source=phpday
+      image: kanbanbox.svg
+    -
       url: https://labs.madisoft.it/symfony-developer/?utm_source=phpday
       image: madisoft.svg
     -
