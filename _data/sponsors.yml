@@ -51,14 +51,14 @@ platinum:
   max: 4
   list:
     -
-      url: http://www.ideato.it/?utm_source=phpday
-      image: ideato.svg
+      url: http://www.flowing.it/?utm_source=phpday
+      image: flowing.svg
     -
       url: https://www.musement.com/?utm_source=phpday
       image: musement.svg
     -
       url: https://www.rds.it/?utm_source=phpday
-      image: rds-skuolanet.svg
+      image: rds.svg
 
 gold:
   price: € 1,500
