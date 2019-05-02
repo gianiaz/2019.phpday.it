@@ -172,7 +172,7 @@
     more to it?
 -
   speaker_id: joop-lammerts
-  title: Microservices in a monolith
+  title: Microservices within a Monolith
   extract: >
     Microservices are hot. But what if you have legacy and implementing microservices is nearly impossible. Is this the
     end of the world? Does this mean you are doomed? No, you can have the best of both worlds. Our legacy Procurios
