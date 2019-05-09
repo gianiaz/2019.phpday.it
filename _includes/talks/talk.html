@@ -55,7 +55,7 @@
       </div>
       {% endif %}
     </div>
-    <h3 class="talk__title">
+    <h3 class="talk__title" id="{{ include.talk.title | slugify }}">
       {{ include.talk.title }}
     </h3>
     <p class="talk__text" markdown="1">

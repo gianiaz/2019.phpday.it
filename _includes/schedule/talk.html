@@ -20,7 +20,9 @@
   {% endif %}
   <td class="schedule__cell schedule__cell--event" {% if include.fill %} colspan="3" {% endif %} {% if include.workshop %} rowspan="2" style="background-color: #8babea" {% endif %}>
     <div class="schedule__title">
-      {{ title }}
+      <a href="/talks.html#{{ title | slugify }}" style="color: #2d2d2d;text-decoration: none;">
+        {{ title }}
+      </a>
       <div class="schedule__detail">
         {% if include.keynote %}
           Keynote by

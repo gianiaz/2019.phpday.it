@@ -4,3 +4,10 @@ body {
   font-family: $font-family-sans;
   font-weight: 400;
 }
+.schedule__title a {
+  color: $color-text;
+  text-decoration: none;
+}
+.schedule__title a:hover {
+  color: $color-jordy-blue;
+}
